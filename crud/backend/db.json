@@ -1,0 +1,41 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC preta",
+      "preco": 5.89
+    },
+    {
+      "id": 2,
+      "name": "NoteBook Mac Pro",
+      "preco": 12000.89
+    },
+    {
+      "name": "Geladeira",
+      "preco": "1913.99",
+      "id": 3
+    },
+    {
+      "name": "Cama Box Casal",
+      "preco": "1913.99",
+      "id": 4
+    }
+  ],
+  "clients": [
+    {
+      "id": 1,
+      "name": "Zaqueu Ricardo",
+      "phone": 981998011
+    },
+    {
+      "id": 2,
+      "name": "Leticia Ricardo",
+      "phone": 981998011
+    },
+    {
+      "id": 3,
+      "name": "Marta Ricardo",
+      "phone": 981998011
+    }
+  ]
+}
