@@ -4,7 +4,7 @@ html, body { height: 100%; }
 body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
 
 .red { /*Class que será chamada no component.html*/
-    color: rgb(227, 94, 107);
+    color: #e35e6b;
 }
 
 .v-middle{ /*Class que será chamada no component.html*/
