@@ -3,7 +3,7 @@
 html, body { height: 100%; }
 body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
 
-.red{ /*Class que será chamada no component.html*/
+.red { /*Class que será chamada no component.html*/
     color: rgb(227, 94, 107);
 }
 
